@@ -164,6 +164,9 @@ button:hover:after {
     font-size: 200%;
     top:-20px;
   }
+  #para{
+    font-size:100%;
+  }
 }
 @media only screen and (max-width: 530px) {
   .circle{
